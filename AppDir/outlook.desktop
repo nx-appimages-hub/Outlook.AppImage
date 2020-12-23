@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Outlook for Outlook.com
+Comment=Outlook for Outlook.com Desktop application
+Exec=AppRun %U
+Terminal=false
+Type=Application
+Icon=outlook
+StartupWMClass=Outlook for Outlook.com Desktop Application
+Categories=Office;
